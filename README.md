@@ -1,10 +1,14 @@
 ## Meu nome é Guilherme : D
 - 🎓 Estudante de **Engenharia de Computação**
-- 🛠️ Ferramentas que uso: **VS Code, Git**
 - 📚 Focado em mini projetos para consolidar o aprendizado
+- 🛠️ Ferramentas que uso:
+<div display='inline'>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
+&nbsp;&nbsp;<img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
+</div>
 - 🚀 Atualmente aprendendo:
 <div display='inline'>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img width='60' height='60' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
 </div>
 
 ## 📈 GitHub Stats
