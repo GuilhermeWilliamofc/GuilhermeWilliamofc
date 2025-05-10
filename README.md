@@ -4,7 +4,7 @@
 - 📚 Focado em mini projetos para consolidar o aprendizado
 - 🚀 Atualmente aprendendo:
 <div display='inline'>
-<img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
 </div>
 
 ## 📈 GitHub Stats
