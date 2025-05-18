@@ -10,6 +10,7 @@
 - 🚀 Atualmente aprendendo:
 <div display='inline'>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img width='60' height='60' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+&nbsp;&nbsp;<img width='60' height='60' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
 </div>
 
 ## 📈 GitHub Stats
