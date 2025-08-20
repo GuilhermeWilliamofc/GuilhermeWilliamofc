@@ -5,13 +5,12 @@
 <div display='inline'>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img width='60' height='60' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original-wordmark.svg" />
 &nbsp;&nbsp;<img width='60' height='60' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original-wordmark.svg" />
-&nbsp;&nbsp;<img width='60' height='60' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytest/pytest-original-wordmark.svg" />
-&nbsp;&nbsp;<img width='60' height='60' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" />
 </div>
 - 🚀 Atualmente aprendendo:
 <div display='inline'>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img width='60' height='60' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
 &nbsp;&nbsp;<img width='60' height='60' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+&nbsp;&nbsp;<img width='60' height='60' src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/1200px-C_Programming_Language.svg.png" />
 </div>
 
 ## 📈 GitHub Stats
