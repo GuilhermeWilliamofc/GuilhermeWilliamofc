@@ -5,6 +5,7 @@
 <div display='inline'>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img width='60' height='60' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original-wordmark.svg" />
 &nbsp;&nbsp;<img width='60' height='60' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original-wordmark.svg" />
+&nbsp;&nbsp;<img width='60' src="https://docs.gitguardian.com/img/favicon.ico" />
 </div>
 - 🚀 Atualmente aprendendo:
 <div display='inline'>
