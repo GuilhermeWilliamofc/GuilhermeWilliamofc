@@ -1,21 +1,22 @@
 ## Meu nome é Guilherme : D
 - 🎓 Estudante de **Engenharia de Computação**
 - 📚 Focado em mini projetos para consolidar o aprendizado
-- 🛠️ Ferramentas que uso:
-<div display='inline'>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img width='60' height='60' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original-wordmark.svg" />
-&nbsp;&nbsp;<img width='60' height='60' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original-wordmark.svg" />
-&nbsp;&nbsp;<img width='60' src="https://docs.gitguardian.com/img/favicon.ico" />
-</div>
-- 🚀 Atualmente aprendendo:
-<div display='inline'>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img width='60' height='60' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
-&nbsp;&nbsp;<img width='60' height='60' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
-&nbsp;&nbsp;<img width='60' height='60' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" />
-&nbsp;&nbsp;<img width='60' height='60' src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/1200px-C_Programming_Language.svg.png" />
-&nbsp;&nbsp;<img width='60' height='60' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
-&nbsp;&nbsp;<img width='60' height='60' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
-</div>
+### 🛠️ Ferramentas que uso:
+<p align="left">
+  <img width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original-wordmark.svg" />
+  <img width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original-wordmark.svg" />
+  <img width="60" src="https://docs.gitguardian.com/img/favicon.ico" />
+</p>
+
+### 🚀 Atualmente aprendendo:
+<p align="left">
+  <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+  <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+  <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" />
+  <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
+  <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
+  <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
+</p>
 
 ## 📈 GitHub Stats
 <p align="left">
