@@ -4,6 +4,7 @@
 ### 🛠️ Ferramentas que uso:
 <p align="left">
   <img width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original-wordmark.svg" />
+  <img width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/eclipse/eclipse-original.svg" />
   <img width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original-wordmark.svg" />
   <img width="60" src="https://docs.gitguardian.com/img/favicon.ico" />
 </p>
