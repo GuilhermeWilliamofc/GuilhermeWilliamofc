@@ -1,5 +1,8 @@
 ## Meu nome é Guilherme : D
 ### Desenvolvedor de Software Júnior | Estudante de Engenharia de Computação
+
+## 👤 Sobre mim
+
 Sou estudante de Engenharia de Computação na UFG (Universidade Federal de Goiás) e desenvolvedor de software júnior, apaixonado por tecnologia, programação e pela criação de soluções que transformam ideias em aplicações reais.
 
 Atualmente, venho desenvolvendo minhas habilidades tanto no Frontend quanto no Backend, explorando diferentes linguagens, frameworks e tecnologias para compreender o desenvolvimento de software de forma completa — desde a construção de interfaces e experiências de usuário até a criação de APIs, regras de negócio e integração com bancos de dados.
@@ -56,6 +59,7 @@ Este perfil é onde compartilho parte da minha jornada como desenvolvedor: proje
 </p>
 
 ## 📈 GitHub Stats
+
 <p align="left">
   <img height="180em" src="https://github-readme-stats-fast.vercel.app/api?username=GuilhermeWilliamofc&show_icons=true&hide_border=true&theme=tokyonight" />
   <img height="180em" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=GuilhermeWilliamofc&layout=compact&hide_border=true&theme=tokyonight&hide=Procfile,Batchfile,Handlebars"/>
@@ -63,6 +67,7 @@ Este perfil é onde compartilho parte da minha jornada como desenvolvedor: proje
 
 
 ## 📫 Contato
+
 * 📧 **E-mail:** [desouzarodrigueswilliam@gmail.com](mailto:desouzarodrigueswilliam@gmail.com)
 * 🌐 **Portfólio:** [https://guilhermewilliam.netlify.app/](https://guilhermewilliam.netlify.app/)
 
