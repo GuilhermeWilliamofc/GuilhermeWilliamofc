@@ -1,7 +1,19 @@
 ## Meu nome é Guilherme : D
-- 🎓 Estudante de **Engenharia de Computação**
-- 📚 Focado em mini projetos para consolidar o aprendizado
+### Desenvolvedor de Software Júnior | Estudante de Engenharia de Computação
+Sou estudante de Engenharia de Computação e desenvolvedor de software júnior, apaixonado por tecnologia, programação e pela criação de soluções que transformam ideias em aplicações reais.
+
+Atualmente, venho desenvolvendo minhas habilidades tanto no Frontend quanto no Backend, explorando diferentes linguagens, frameworks e tecnologias para compreender o desenvolvimento de software de forma completa — desde a construção de interfaces e experiências de usuário até a criação de APIs, regras de negócio e integração com bancos de dados.
+
+Tenho interesse em aprender continuamente, aprofundar meus conhecimentos em engenharia de software, arquitetura de sistemas, desenvolvimento web, automação e infraestrutura, sempre buscando escrever código mais organizado, eficiente e sustentável.
+
+Este perfil é onde compartilho parte da minha jornada como desenvolvedor: projetos, estudos, experimentos e tudo o que venho construindo ao longo do caminho. 🚀
+
+---
+
 ### 🛠️ Ferramentas que uso:
+
+* **Ferramentas & Ambiente:** Git/GitHub, VS Code, Eclipse IDE e GitGuardian.
+
 <p align="left">
   <img width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original-wordmark.svg" />
   <img width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/eclipse/eclipse-original.svg" />
