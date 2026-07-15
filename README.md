@@ -15,8 +15,8 @@ Este perfil é onde compartilho parte da minha jornada como desenvolvedor: proje
 
 ## 💻 Projetos em Destaque
 
-* **Videify (JavaScript):** Aplicativo desktop voltado para a organização de ideias, roteirização de conteúdos e manipulação/download de mídias de forma prática.
-* **TradeLibrary (Java / SQLite):** Plataforma para troca e venda de livros usados desenvolvida sob o padrão de arquitetura MVC. Atuei fortemente no design do sistema (Frontend) e na implementação da persistência de dados local (Back-End) utilizando SQLite e ORMLite, além de gerenciar a compatibilidade de ambiente e bibliotecas da equipe.
+* [**Videify (JavaScript):**](https://github.com/GuilhermeWilliamofc/Videify) Aplicativo desktop voltado para a organização de ideias, roteirização de conteúdos e manipulação/download de mídias de forma prática.
+* [**TradeLibrary (Java / SQLite):**](https://github.com/poo-ec-2026-1/g5) Plataforma para troca e venda de livros usados desenvolvida sob o padrão de arquitetura MVC. Atuei fortemente no design do sistema (Frontend) e na implementação da persistência de dados local (Back-End) utilizando SQLite e ORMLite, além de gerenciar a compatibilidade de ambiente e bibliotecas da equipe.
 
 ---
 
