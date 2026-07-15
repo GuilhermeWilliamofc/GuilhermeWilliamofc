@@ -22,7 +22,7 @@
 ## 📈 GitHub Stats
 <p align="left">
   <img height="180em" src="https://github-readme-stats-fast.vercel.app/api?username=GuilhermeWilliamofc&show_icons=true&hide_border=true&theme=tokyonight" />
-  <img height="180em" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=GuilhermeWilliamofc&layout=compact&hide_border=true&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=GuilhermeWilliamofc&layout=compact&hide_border=true&theme=tokyonight&hide=Procfile,Batchfile,Handlebars"/>
 </p>
 
 
