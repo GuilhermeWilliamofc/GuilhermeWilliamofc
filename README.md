@@ -64,4 +64,4 @@ Interessado em colaborar em um projeto ou trocar ideia técnica? Me chama no e-m
 
 - 📧 **E-mail:** [desouzarodrigueswilliam@gmail.com](mailto:desouzarodrigueswilliam@gmail.com)
 - 🌐 **Portfólio:** [guilhermewilliamdev.netlify.app](https://guilhermewilliamdev.netlify.app/)
-- 💼 **LinkedIn:** [guilhermewilliamdev](https://www.linkedin.com/in/guilhermewilliamdev/)
+- 💼 **LinkedIn:** [guilhermewilliamdev](https://www.linkedin.com/in/guilherme-william-949709425/)
